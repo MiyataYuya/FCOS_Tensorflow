@@ -117,3 +117,7 @@ __pycache__/
 */output/*
 */data/pretrained_weights/*
 */data/tfrecord/*
+
+datasets/*
+# .devcontainer
+# docker/*
